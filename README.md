@@ -9,7 +9,7 @@ Inspired by [apk add virtual](https://man.archlinux.org/man/apk-add.8.en). Creat
 
 ## Suggested Syntax
 ```
-apt-virtual create <package-name> [ install <package-definition> [,<package-definition>] ... ]
+apt-virtual install <package-name> [<package-definition>] [,<package-definition>] ... 
 ```
 
 ```
@@ -21,6 +21,8 @@ apt-virtual show <package-name>
 ```
 
 Relationships: Depends, Recommends, Suggests, Pre-Depends, Build-Depends, Build-Depends-Indep and Build-Depends-Arch
+
+Export...?
 
 ## Disclaimer  
 If you break your system using this tool, it's on you!
