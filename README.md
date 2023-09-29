@@ -1,4 +1,4 @@
-# apt-metapackage
+# APT Virtual Package
 Metapackage / virtual package utility
 
 ## Status
