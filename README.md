@@ -30,3 +30,4 @@ Use at your own risk.
 ## Read more  
 https://help.ubuntu.com/community/MetaPackages  
 https://www.debian.org/doc/debian-policy/ch-relationships.html
+https://www.unixdaemon.net/linux/creating-debian-virtual-packages/
