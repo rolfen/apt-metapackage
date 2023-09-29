@@ -24,7 +24,7 @@ Relationships: Depends, Recommends, Suggests, Pre-Depends, Build-Depends, Build-
 
 Export...?
 
-## Disclaimer  metapackage
+## Disclaimer
 Use at your own risk.
 
 ## Read more  
