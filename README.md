@@ -13,7 +13,7 @@ apt-virtual install <package-name> [<package-definition>] [,<package-definition>
 ```
 
 ```
-apt-virtual modify <package-name> add|remove|set <relationship> [<package-definition>] [,<package-definition>] ...
+apt-virtual modify <package-name> add|remove|set [--relationship <relationship>] [<package-definition>] [,<package-definition>] ...
 ```
 
 ```
