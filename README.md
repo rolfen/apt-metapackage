@@ -24,8 +24,8 @@ Relationships: Depends, Recommends, Suggests, Pre-Depends, Build-Depends, Build-
 
 Export...?
 
-## Disclaimer  
-If you break your system using this tool, it's on you!
+## Disclaimer  metapackage
+Use at your own risk.
 
 ## Read more  
 https://help.ubuntu.com/community/MetaPackages  
