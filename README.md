@@ -23,7 +23,7 @@ apt-virtual show <package-name>
 Relationships: Depends, Recommends, Suggests, Pre-Depends, Build-Depends, Build-Depends-Indep and Build-Depends-Arch
 
 ## Disclaimer  
-If you create fake packages that provide real dependencies and break your system, don't blame me!
+If you break your system using this tool, it's on you!
 
 ## Read more  
 https://help.ubuntu.com/community/MetaPackages  
