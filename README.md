@@ -1,5 +1,5 @@
 # apt-metapackage
-Metapackage utility
+Metapackage / virtual package utility
 
 ## Status
 Just started!
@@ -9,15 +9,15 @@ Inspired by [apk add virtual](https://man.archlinux.org/man/apk-add.8.en). Creat
 
 ## Suggested Syntax
 ```
-apt-metapackage create <package-name> [ install <package-definition> [,<package-definition>] ... ]
+apt-virtual create <package-name> [ install <package-definition> [,<package-definition>] ... ]
 ```
 
 ```
-apt-metapackage modify <package-name> add|remove|set <relationship> [<package-definition>] [,<package-definition>] ...
+apt-virtual modify <package-name> add|remove|set <relationship> [<package-definition>] [,<package-definition>] ...
 ```
 
 ```
-apt-metapackage show <package-name> 
+apt-virtual show <package-name> 
 ```
 
 Relationships: Depends, Recommends, Suggests, Pre-Depends, Build-Depends, Build-Depends-Indep and Build-Depends-Arch
