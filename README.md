@@ -9,11 +9,11 @@ Inspired by [apk add virtual](https://man.archlinux.org/man/apk-add.8.en). Creat
 
 ## Suggested Syntax
 ```
-apt-metapackage create <package-name> [install] [package-definition], [package-definition] ...
+apt-metapackage create <package-name> [ install <package-definition> [,<package-definition>] ... ]
 ```
 
 ```
-apt-metapackage modify <package-name> add|remove|set <relationship> [package-definition], [package-definition] ...
+apt-metapackage modify <package-name> add|remove|set <relationship> [<package-definition>] [,<package-definition>] ...
 ```
 
 ```
